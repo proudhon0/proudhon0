@@ -1,0 +1,4 @@
+- 👋 proudhon0
+- 👀 im instered PHP,JavaScript
+- 🌱 student
+- 💞️im looking for a friend to backend together
