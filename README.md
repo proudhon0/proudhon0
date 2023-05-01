@@ -1,4 +1,4 @@
-- 👋 proudhon0
-- 👀 im instered PHP,JavaScript
+- 👋 Umut Yılmaz
+- 👀 im coding PHP,JavaScript
 - 🌱 Freelancer
 - 💞️ i love PHP, JS and CSS
